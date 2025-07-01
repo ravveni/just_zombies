@@ -5,9 +5,14 @@
     "name": "Just Zombies",
     "authors": [ "ravveni" ],
     "maintainers": [ "ravveni" ],
-    "description": "Just zombies. Removes fungal, insect, mi-go, robot, & triffid monsters/scenarios.",
+    "description": "Just zombies (and ferals & mutants), no pulping required. Removes fungal, insect, mi-go, robot, & triffid monsters/scenarios.",
     "category": "total_conversion",
     "dependencies": [ "dda" ]
+  },
+  {
+    "type": "monster_adjustment",
+    "species": "ZOMBIE",
+    "flag": { "name": "REVIVES", "value": false }
   },
   {
     "type": "region_overlay",
