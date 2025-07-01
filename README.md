@@ -8,7 +8,10 @@
  _/ |           ______                                    
 |__/           |______|
 ```
+Just zombies (and ferals & mutants), no pulping required.
 
-Just zombies (and ferals & mutants), no pulping required. Removes fungal, insect, mi-go, robot, & triffid monsters/scenarios.
+Removes fungal, insect, mi-go, robot, & triffid monsters/scenarios.
+
+-----------------------------------------------------
 
 Credit to [I-am-Erk](https://github.com/I-am-Erk) for the code I cherrypicked from the Dark Days of the Dead mod.
